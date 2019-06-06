@@ -1,0 +1,2 @@
+The code implements 2 Models - Linear Multivariate Regression and Artificial Neural Network. At the time of suubmission, the rank was 
+calculated to be 1325 with a score (RMS Logarithmic Error) of about 0.122.
